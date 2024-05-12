@@ -1,0 +1,48 @@
+title: "Jaworowa"
+email: wspolnota@jaworowa.org
+timezone: UTC
+baseurl: ""
+permalink: "/:title/"
+logo:
+favicon: 'assets/images/favicon.ico'
+author: norbert
+paginate: 30
+disqus: ''
+locale: en_us
+lang: en_us
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+ganalytics:
+
+# Authors
+authors:
+  norbert:
+    name: Norbert
+    display_name: Norbert
+    avatar: 'assets/images/norbert.png'
+    email: norbert.potocki@jaworowa.org
+    web:
+    twitter:
+    description: "Test description"
+
+# Social
+social:
+  #instagram: https://www.instagram.com/bootstrapstarter/
+  #facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
+  #twitter: https://twitter.com/bstartercom
+
+# Plugins
+plugins: 
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives

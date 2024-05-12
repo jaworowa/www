@@ -1,0 +1,28 @@
+# Top Menu
+topmenu:
+
+- title: Główna
+  url: ""
+
+- title: Ogłoszenia
+  url: "about/"
+
+- title: Dokumenty
+  url: "about/"
+
+- title: Kontakt
+  url: "contact/"
+
+- title: Konto mieszkańca
+  url: https://www.e-kartoteka.pl/#/login
+  class: "ml-2 btn btn-dark text-white px-3"
+  external: true
+
+# Footer Menu
+footermenu:
+
+- title: Główna
+  url: ""
+
+- title: Kontakt
+  url: "contact/"
