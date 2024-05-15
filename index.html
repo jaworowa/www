@@ -17,7 +17,7 @@ background: '/img/bg-index.jpg'
   <div class="col-sm-8">
     {% if page.url == "/" %}
     <div class="row">
-      <div class="rounded mb-4 ml-3 hero">
+      <div class="rounded mb-4 ml-3 mr-3 hero">
         <div class="row align-items-center justify-content-between pt-3 pb-3">
           <div class="col-md-12">
             <h4 class="font-weight-bold mb-2 serif-font">Witaj na Jaworowej!</h4>
@@ -35,7 +35,7 @@ background: '/img/bg-index.jpg'
 
     <div class="row">
       {% for post in site.posts %}
-      <div class="col-md-6 mb-4">
+      <div class="col-md-6 mb-5">
         {% include postbox.html %}
       </div>
       {% endfor %}
