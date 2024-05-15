@@ -3,7 +3,7 @@ email: wspolnota@jaworowa.org
 timezone: UTC
 baseurl: ""
 permalink: "/:title/"
-logo:
+logo: 'assets/images/tree.png'
 favicon: 'assets/images/favicon.ico'
 author: norbert
 paginate: 30

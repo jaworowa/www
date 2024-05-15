@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Powerful things you can do with the Markdown editor"
-author: sal
-categories: [ Jekyll, tutorial ]
+title:  "Plany finansowe i gospodarcze"
+author: norbert
+categories: [ finanse ]
 image: assets/images/4.jpg
 ---
-There are lots of powerful things you can do with the Markdown editor
+Plany finansowe i gospodarcze na najbliższe lata.
 
 If you've gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!
 
