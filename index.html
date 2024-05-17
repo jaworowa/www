@@ -6,7 +6,17 @@ background: '/img/bg-index.jpg'
 
 <!-- Home Intro
 ================================================== -->
-
+{% if page.url == "/" %}
+<div class="rounded mb-4 hero pl-5 pr-5">
+  <div class="row align-items-center justify-content-between pt-3 pb-3 text-center">
+    <div class="col-md-12">
+      <h4 class="font-weight-bold mb-2 serif-font">Witaj na Jaworowej!</h4>
+      <p class="mb-0">Znajdziesz tutaj informacje dotyczące wspólnoty, oraz
+        załatwisz ważne sprawy.</p>
+    </div>
+  </div>
+</div>
+{% endif %}
 
 <!-- Posts List with Sidebar (except featured)
 ================================================== -->
@@ -15,23 +25,23 @@ background: '/img/bg-index.jpg'
     {% include sidebar.html %}
   </div>
   <div class="col-sm-8">
-    {% if page.url == "/" %}
-    <div class="row">
-      <div class="rounded mb-4 ml-3 mr-3 hero">
-        <div class="row align-items-center justify-content-between pt-3 pb-3">
-          <div class="col-md-12">
-            <h4 class="font-weight-bold mb-2 serif-font">Witaj na Jaworowej!</h4>
-            <p class="mb-0">Znajdziesz tutaj informacje dotyczące wspólnoty, oraz
-              załatwisz ważne sprawy.</p>
-            <!--      <a href="{{site.baseurl}}/about" class="btn btn-dark text-white px-5 btn-lg">About me</a>-->
-          </div>
-          <!--    <div class="col-md-4 text-right pl-0 pl-lg-4">-->
-          <!--      <img class="intro" width="200" src="{{site.baseurl}}/assets/images/tree.png">-->
-          <!--    </div>-->
-        </div>
-      </div>
-    </div>
-    {% endif %}
+<!--    {% if page.url == "/" %}-->
+<!--    <div class="row">-->
+<!--      <div class="rounded mb-4 ml-3 mr-3 hero pl-5 pr-5" style="width: 100%">-->
+<!--        <div class="row align-items-center justify-content-between pt-3 pb-3">-->
+<!--          <div class="col-md-12">-->
+<!--            <h4 class="font-weight-bold mb-2 serif-font">Witaj na Jaworowej!</h4>-->
+<!--            <p class="mb-0">Znajdziesz tutaj informacje dotyczące wspólnoty, oraz-->
+<!--              załatwisz ważne sprawy.</p>-->
+<!--            &lt;!&ndash;      <a href="{{site.baseurl}}/about" class="btn btn-dark text-white px-5 btn-lg">About me</a>&ndash;&gt;-->
+<!--          </div>-->
+<!--          &lt;!&ndash;    <div class="col-md-4 text-right pl-0 pl-lg-4">&ndash;&gt;-->
+<!--          &lt;!&ndash;      <img class="intro" width="200" src="{{site.baseurl}}/assets/images/tree.png">&ndash;&gt;-->
+<!--          &lt;!&ndash;    </div>&ndash;&gt;-->
+<!--        </div>-->
+<!--      </div>-->
+<!--    </div>-->
+<!--    {% endif %}-->
 
     <div class="row">
       {% for post in site.posts %}
