@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Ważne kontakty"
+title:  "Ważne informacje"
 author: norbert
 categories: [ kontakt, przypięte ]
 image: assets/images/5.jpg
 featured: true
 ---
-Na tej stronie znajdziecie najważniejsze kontakty, zarówno do wspólnoty, jak i naszych podwykonawców.
+Na tej stronie znajdziecie pilne informacje, oraz kontakty zarówno do wspólnoty, jak i naszych usługodawców.
 
 > We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically. 
 
