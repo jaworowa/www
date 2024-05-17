@@ -8,9 +8,13 @@ post_class: post-template
 <!-- Begin Article
 ================================================== -->
 
-	<div class="row">
-		
 
+	<div class="row">
+
+        <!-- Sidebar -->
+        <div class="col-sm-4">
+            {% include sidebar.html %}
+        </div>
 		<!-- Post -->        
         {% assign author = site.authors[page.author] %}
         
@@ -86,33 +90,9 @@ post_class: post-template
 					</div>
 				</div>				
                 {% endif %}
-            
-            
-            <!-- Begin Comments
-            ================================================== -->
-            <section>
-            <div id="comments">                          
-                {% include disqus.html %} 
-            </div>
-            </section>
-            <!--End Comments
-            ================================================== -->
-            
-            
 
 		</div>
 		<!-- End Post -->
-
-
-        
-
-		<!-- Sidebar -->
-        <div class="col-sm-4">
-            {% include sidebar.html %}
-            </div>
-        
-        
-
 	</div>
 
 <!-- End Article
