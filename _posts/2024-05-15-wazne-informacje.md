@@ -6,4 +6,4 @@ categories: [ kontakt, przypięte ]
 image: assets/images/5.jpg
 featured: true
 ---
-Na tej stronie znajdziecie pilne informacje, oraz kontakty zarówno do wspólnoty, jak i naszych usługodawców.
+W tej sekcji kontakty do wspólnoty, jak i naszych usługodawców, oraz inne ważne informacje potrzebne w nagłych sytuacjach.
