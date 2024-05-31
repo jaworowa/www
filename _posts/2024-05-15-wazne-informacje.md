@@ -27,13 +27,14 @@ Posiadanie własnej strony, w poró daje nam kilka możliwości:
   * <span>Email:  <a href="mailto: kontakt@jaworowa.org" class="text-decoration-none text-muted" style="text-decoration: underline">kontakt@jaworowa.org</a></span>
   * <span>Whatsapp: "<a href="/whatsapp" class="text-decoration-none text-muted" style="text-decoration: underline">Wspólnota Jaworowa</a>"</span>
 * Ochrona:
-  * Telefon: 
-* Konserwator
-  * Telefon:
-* Obsługa bramy:
-  * Telefon:
+  * Telefon: 786-183-447
+  * Koordynator: 786-183-210
+* Konserwator: 600-700-811
+* Obsługa bramy: 669-697-769
+* Obsługa domofonu: 602-257-219
 * Usługi publiczne:
-  * Pogotowie:
-  * Straż pożarna:
-  * Policja:
-  * Telefon zaufania:
+  * Ogólny telefon alarmowy: 112
+  * Pogotowie: 999
+  * Straż pożarna: 998
+  * Policja: 997
+  * Telefon zaufania dla dzieci i młodzieży: 116 111
