@@ -4,17 +4,17 @@ topmenu:
 - title: Ważne informacje
   url: "wazne-informacje/"
 
-- title: Uchwały
-  url: "uchwaly-i-glosowania/"
+#- title: Uchwały
+#  url: "uchwaly-i-glosowania/"
 
-- title: Moje mieszkanie
-  url: "moje-mieszkanie/"
+#- title: Moje mieszkanie
+#  url: "moje-mieszkanie/"
 
 - title: Ogłoszenia
   url: "ogloszenia/"
 
-- title: Finanse
-  url: "plany-finansowe-i-gospodarcze/"
+#- title: Finanse
+#  url: "plany-finansowe-i-gospodarcze/"
 
 - title: Opłaty za mieszkanie
   url: https://www.e-kartoteka.pl/#/login
