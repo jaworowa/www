@@ -38,7 +38,32 @@ post_class: post-template
                 <!-- End Categories -->
                 
                 <!-- Post Title -->
-				<h1 class="posttitle">{{ page.title }}</h1> 
+				<h1 class="posttitle">{{ page.title }}</h1>
+
+                <!-- Post Date -->
+                <p>
+                    <small>
+                        <span class="post-date"><time class="post-date" datetime="{{ page.date }}">
+                            {% assign m = page.date | date: "%-m" %}
+                            {{ page.date | date: "%-d" }}
+                            {% case m %}
+                              {% when '1' %}Stycznia
+                              {% when '2' %}Lutego
+                              {% when '3' %}Marca
+                              {% when '4' %}Kwietnia
+                              {% when '5' %}Maja
+                              {% when '6' %}Czerwca
+                              {% when '7' %}Sierpnia
+                              {% when '8' %}Lipca
+                              {% when '9' %}Września
+                              {% when '10' %}Października
+                              {% when '11' %}Listopada
+                              {% when '12' %}Grudnia
+                            {% endcase %}
+                            {{ page.date | date: "%Y" }}
+                        </time></span>
+                    </small>
+                </p>
                 
 			</div>
 
@@ -50,15 +75,7 @@ post_class: post-template
                 <div class="clearfix"></div>
 			</div>
 
-            <!-- Post Date -->
-            <p>
-            <small>
-                <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>
-                {% if page.last_modified_at %}
-                (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
-                {% endif %}
-                </small>
-            </p>
+
             
 			
             

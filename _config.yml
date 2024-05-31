@@ -1,6 +1,6 @@
 title: "Jaworowa"
 email: wspolnota@jaworowa.org
-timezone: UTC
+timezone: "Europe/Warsaw"
 baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/tree.png'
@@ -8,8 +8,8 @@ favicon: 'assets/images/favicon.ico'
 author: norbert
 paginate: 30
 disqus: ''
-locale: pl_PL
-lang: pl_PL
+locale: pl_PL.UTF-8
+lang: pl
 feed_items: 10
 feed_update_period: daily
 feed_update_frequency: 1
