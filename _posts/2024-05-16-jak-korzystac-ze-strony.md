@@ -9,7 +9,7 @@ W tej sekcji dowiesz się jak działa nasza strona, znajdziesz kontakty do wspó
 
 ### Jak i jest cel tej strony i jak z niej korzystać
 Na początek chcieliśmy wyjaśnić, jaki jest cel posiadania własnej strony internetowej,
-w dodatku do portalu oferowanego do bosługi płatności:
+w dodatku do portalu oferowanego do obsługi płatności:
 
 dlaczego zdecydowaliśmy się na stworzenie własnej strony,
 pod adresem (jaworowa.org) kontrolowanym przez wspólnotę, zamiast
@@ -19,5 +19,5 @@ Posiadanie własnej strony, w poró daje nam kilka możliwości:
   * harmonogram wywozu śmieci
   * numery kontaktowe do podwykonawców
   * nowości z dzielnicy i osiedla
-* możliwość łatwej zmiany dostawców usług (np. operatora płatności), jeśli znajedziemy 
-* w przyszłości dodanie elementów, ktore nie są wspiera
+* możliwość łatwej zmiany dostawców usług (np. operatora płatności), jeśli znajdziemy. 
+* w przyszłości dodanie elementów, które nie są wspierane
