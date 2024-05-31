@@ -5,7 +5,7 @@ author: norbert
 image: assets/images/5.jpg
 featured: true
 ---
-W tej sekcji dowiesz się jak działa nasza strona, znajdziesz kontakty do wspólnoty, jak i naszych usługodawców, oraz informacje użyteczne w nagłej potrzebie.
+W tej sekcji znajdziesz kontakty do wspólnoty, jak i naszych usługodawców, oraz informacje użyteczne w nagłej potrzebie.
 
 ### Jak i jest cel tej strony i jak z niej korzystać
 Na początek chcieliśmy wyjaśnić, jaki jest cel posiadania własnej strony internetowej,

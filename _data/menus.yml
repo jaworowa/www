@@ -1,6 +1,9 @@
 # Top Menu
 topmenu:
 
+- title: Instrukcja
+  url: "jak-korzystac-ze-strony/"
+
 - title: Ważne informacje
   url: "wazne-informacje/"
 
