@@ -34,10 +34,10 @@ drugą połowę tego roku. Poinformujemy Was o szczegółach już niedługo!
   
     **Czekamy z niecierpliwością na Wasze sugestie oraz pomysły**, jak ulepszyć nasze osiedle :)
 
-4. Obecnie pracujemy nad planem zlikwidowania spółdzielni, od której wspólnoty przejmą wszystkie obowiązki.
+4. Obecnie pracujemy nad planem likwidacji spółdzielni, od której wspólnoty przejmą wszystkie obowiązki.
 Przez następne kilka tygodni oba podmioty (wspólnoty oraz spółdzielnia), będą działały równolegle, umożliwiając
 nam wygodne przeniesienie zasobów, umów i dokumentacji. Postaramy się przeprowadzić transfer tak, aby nie było
-to dla Was uciążliwe. Więcej szczegółów na walnym zgromadzeniu Spółdzielni oraz przyszłych spotkaniach Wspólnot.
+to dla Was uciążliwe. Więcej szczegółów na ten temat na [walnym zgromadzeniu Spółdzielni 10 czerwca](/walne-zgromadzenie-spoldzielni/).
 
 **Pozdrawiamy serdecznie**,
 
