@@ -12,7 +12,7 @@
         <ul>
             {% for post in site.posts limit:5 %}
             {% if post.featured == false %}
-                <li><a href="{{ post.url | absolute_url }}" class="text-decoration-underline text-muted" style="text-decoration: underline">> {{ post.title }} ({{ post.date | date: "%Y/%m/%d" }})</a></li>
+            <li><a href="{{ post.url | absolute_url }}" class="text-decoration-underline text-muted">> <span style="text-decoration: underline">{{ post.title }}</span></a></li>
             {% endif %}
             {% endfor %}
         </ul>
