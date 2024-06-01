@@ -6,4 +6,7 @@ author: norbert
 featured: false
 ---
 
-<embed src="/assets/attachments/odpady-harmonogram-6-9-24.pdf" width="800" height="1035" type="application/pdf">
+<object data="/assets/attachments/odpady-harmonogram-6-9-24.pdf" type="application/pdf" width="800" height="1035">
+  <p>Twoja przeglądarka nie pozwala wyświetlić tego pliku bezpośrednio.
+  Zamiast tego możesz go otworzyć klikając <a href="/assets/attachments/odpady-harmonogram-6-9-24.pdf">w ten link</a></p>
+</object>
