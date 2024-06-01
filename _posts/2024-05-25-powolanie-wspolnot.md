@@ -21,7 +21,7 @@ odpowiednich urzędach; obecnie otwieramy konta bankowe i podpisujemy umowy z us
 działanie osiedla. Przygotowujemy również początkowe uchwały regulujące działanie wspólnot; oraz plan gospodarczy na
 drugą połowę tego roku. Poinformujemy Was o szczegółach już niedługo!
 
-3. Uruchomiliśmy **kanały komunikacji dla Waszej wygody**:
+3. Dla Waszej wygody **uruchomiliśmy kanały komunikacji**:
     1. Można się z nami kontaktować
         1. Mailowo: [zarzad@jaworowa.org](mailto:zarzad@jaworowa.org)
         2. Poprzez Whatsapp: [jaworowa.org/whatsapp](https://jaworowa.org/whatsapp)
@@ -36,8 +36,9 @@ drugą połowę tego roku. Poinformujemy Was o szczegółach już niedługo!
 
 4. Obecnie pracujemy nad planem likwidacji spółdzielni, od której wspólnoty przejmą wszystkie obowiązki.
 Przez następne kilka tygodni oba podmioty (wspólnoty oraz spółdzielnia), będą działały równolegle, umożliwiając
-nam wygodne przeniesienie zasobów, umów i dokumentacji. Postaramy się przeprowadzić transfer tak, aby nie było
-to dla Was uciążliwe. Więcej szczegółów na ten temat na [walnym zgromadzeniu Spółdzielni 10 czerwca](/walne-zgromadzenie-spoldzielni/).
+nam wygodne przeniesienie zasobów, umów i dokumentacji. Postaramy się przeprowadzić transfer tak, aby był jak najmniej uciążliwy.
+Więcej szczegółów na ten temat na [walnym zgromadzeniu Spółdzielni 10 czerwca](/walne-zgromadzenie-spoldzielni/)
+i przyszłych spotkaniach Wspólnot.
 
 **Pozdrawiamy serdecznie**,
 
