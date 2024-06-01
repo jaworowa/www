@@ -9,7 +9,7 @@ W tej sekcji znajdziesz informacje kontaktowe do wspólnoty, jak i naszych usłu
 
 ### Ważne informacje kontaktowe
 * Zarząd i administracja wspólnoty:
-  * <span>Email:  <a href="mailto: kontakt@jaworowa.org" class="text-decoration-none text-muted" style="text-decoration: underline">kontakt@jaworowa.org</a></span>
+  * <span>Email:  <a href="mailto: zarzad@jaworowa.org" class="text-decoration-none text-muted" style="text-decoration: underline">zarzad@jaworowa.org</a></span>
   * <span>Whatsapp: "<a href="/whatsapp" class="text-decoration-none text-muted" style="text-decoration: underline">Wspólnota Jaworowa</a>"</span>
 * Ochrona:
   * Telefon: 786-183-447
