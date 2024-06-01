@@ -22,7 +22,7 @@ post_class: post-template
             <!-- Post Featured Image -->
 			{% if page.image %}<img class="featured-image img-fluid rounded" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">{% endif %}
 			<!-- End Featured Image -->
-			<div class="mainheading">             
+			<div class="mainheading pb-4">
                 
                 <!-- Post Categories -->
                 <div class="after-post-tags">
@@ -38,11 +38,11 @@ post_class: post-template
                 <!-- End Categories -->
                 
                 <!-- Post Title -->
-				<h1 class="posttitle">{{ page.title }}</h1>
+				<h1 class="posttitle mb-2">{{ page.title }}</h1>
 
                 <!-- Post Date -->
                 <p>
-                    <small>
+                    <small>Opublikowano:
                         <span class="post-date"><time class="post-date" datetime="{{ page.date }}">
                             {% assign m = page.date | date: "%-m" %}
                             {{ page.date | date: "%-d" }}
@@ -64,10 +64,8 @@ post_class: post-template
                         </time></span>
                     </small>
                 </p>
-                
 			</div>
 
-			
 
 			<!-- Post Content -->
 			<div class="article-post serif-font">
